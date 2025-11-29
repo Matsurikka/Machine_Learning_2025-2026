@@ -1,0 +1,11 @@
+Submission File,Model,Type,Num Predictions,Num Samples
+submission_random_forest.csv,Random Forest,Individual Model,3600,3600
+submission_gradient_boosting.csv,Gradient Boosting,Individual Model,3600,3600
+submission_xgboost.csv,XGBoost,Individual Model,3600,3600
+submission_logistic_regression.csv,Logistic Regression,Individual Model,3600,3600
+submission_knn.csv,KNN,Individual Model,3600,3600
+submission_svm.csv,SVM,Individual Model,3600,3600
+submission_adaboost.csv,AdaBoost,Individual Model,3600,3600
+submission_BEST_xgboost_final.csv,XGBoost,Best Model (Fit on Full Train),3600,3600
+submission_ENSEMBLE_soft_voting.csv,Ensemble,Soft Voting (6 models),3600,3600
+submission_ENSEMBLE_hard_voting.csv,Ensemble,Hard Voting (7 models),3600,3600
